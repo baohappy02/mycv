@@ -9,7 +9,7 @@
 						</div>
 					</div>
 					<div class="col-12 col-md-8 col-lg-8 pt-5">
-						<h4 class="bg-time">THỜI GIAN: 2020/08/15  => 2020/12/25</h4>
+						<h4 class="bg-time">THỜI GIAN: 2020/08/15  => NOW</h4>
 						<p class="small-cover">
 							<h4 class="small-content-ss">Trung Tâm Aptech Sài Gòn</h4>
 							<div class="ct-hover small-title">Học viên khóa fullstack developer</div>
